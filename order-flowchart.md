@@ -56,6 +56,6 @@ flowchart TD
     Z --> CC[Процесс: Пользователь вводит<br>другой номер заказа]
     CC --> C
 
-    classDef red fill:#ffcccc
+    classDef red fill:
     class H red
 ```
