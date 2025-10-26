@@ -104,6 +104,6 @@ flowchart TD
     class S2_DELAYED red
     classDef status fill:
     class S1,S2,S3,S4,S5,S2_DELAYED,COMPLETED status
-    classDef cancel fill:
+    classDef cancel fill:#fff3e0
     class ACTIVE1,ACTIVE2,ACTIVE3,ACTIVE4,ACTIVE5,ACTIVE6 cancel
 ```
